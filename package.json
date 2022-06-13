@@ -1,6 +1,6 @@
 {
   "name": "@mmomtchev/expo-android-localized-app-name",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Support a localized application name with expo on Android",
   "main": "index.js",
   "repository": "https://github.com/mmomtchev/expo-android-localized-app-name.git",
