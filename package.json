@@ -1,0 +1,13 @@
+{
+  "name": "@mmomtchev/expo-android-localized-app-name",
+  "version": "1.0.0",
+  "description": "Support a localized application name with expo on Android",
+  "main": "index.js",
+  "repository": "https://github.com/mmomtchev/expo-android-localized-app-name.git",
+  "author": "Momtchil Momtchev <momtchil@momtchev.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@expo/config-plugins": "^4.1.5",
+    "xml2js": "^0.4.23"
+  }
+}
